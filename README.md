@@ -1,4 +1,4 @@
-# Spyxpo Discussions
+# Spyxpo Community Discussions
 
 Welcome to the Spyxpo Discussion Forum! This platform is designed to facilitate discussions, questions, and issue tracking related to Spyxpo projects. Whether you're a developer, designer, or simply interested in our projects, this is the place to connect with fellow community members, share insights, and seek assistance.
 
