@@ -2,6 +2,8 @@
 
 Welcome to the Spyxpo Discussion Forum! This platform is designed to facilitate discussions, questions, and issue tracking related to Spyxpo projects. Whether you're a developer, designer, or simply interested in our projects, this is the place to connect with fellow community members, share insights, and seek assistance.
 
+You can use this repository's discussion tab  to start a new discussion or participate in existing ones, another option is to use [Spyxpo Discussion Forum](https://discussions.spyxpo.com/) website.
+
 ## Table of Contents
 
 - [About Spyxpo](#about-spyxpo)
